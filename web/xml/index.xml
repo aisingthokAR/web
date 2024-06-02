@@ -1,0 +1,26 @@
+<book-store>
+<book name="nepali">
+<author>hari tamang</author>
+<publiser>Daanfe stationery</publiser>
+<general>common</general>
+<date>2065/7/5</date>
+</book>
+<book name="english">
+<author>ram kumar</author>
+<publiser>everst stationery</publiser>
+<general>ordinary</general>
+<date>2064/2/30</date>
+</book>
+<book name="math">
+<author>basanta gurung</author>
+<publiser>Pokhara stationery</publiser>
+<general>general</general>
+<date>2059/6/20</date>
+</book>
+<book name="science">
+<author>basanti maya lama</author>
+<publiser>kathamandu stationery</publiser>
+<general>normal</general>
+<date>2055/1/10</date>
+</book>
+</book-store>

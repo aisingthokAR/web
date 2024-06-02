@@ -1,0 +1,4 @@
+<!ELEMENT anything (name, age)>
+<!ATTLIST anything type CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)> 

@@ -1,0 +1,23 @@
+<tu>
+<s:employee xmlns:s=".f"> 
+<s:post>HR</s:post>
+<s:salary>1</s:salary>
+<s:gender>other</s:gender>
+<s:userName>gay1</s:userName>
+<s:password>1234</s:password>
+</s:employee>
+<a:employee xmlns:a="./w">
+<a:post>guard</a:post>
+<a:salary>10</a:salary>
+<a:gender>man</a:gender>
+<a:userName>man1</a:userName>
+<a:password>321</a:password>
+</a:employee>
+<k:employee xmlns:k=".k"> 
+<k:post>admin</k:post>
+<k:salary>1</k:salary>
+<k:gender>other</k:gender>
+<k:userName>gay1</k:userName>
+<k:password>542</k:password>
+</k:employee>
+</tu>

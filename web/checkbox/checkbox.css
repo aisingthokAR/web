@@ -1,0 +1,73 @@
+.main{
+   
+    background-color: whitesmoke;
+    width: 50%;
+    height: 700px;
+    margin-left: 400px;
+}
+.second{
+    padding: 5px;
+    margin-bottom: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 200px;
+    text-align: center;
+}
+.controler{
+    text-align: left;
+    margin-left: 20px;
+}
+.controler-one input{
+   width: 300px;
+   padding: 10px 20px 10px 20px;
+}
+.controler-two input{
+    width: 300px;
+    margin-left: 26px;
+    padding: 10px 20px 10px 20px;
+}
+.controler-three input{
+    width: 300px;
+    margin-left: 3px;
+    padding: 10px 20px 10px 20px;
+}
+.controler-four input{
+    width: 300px;
+    margin-left: 13px;
+    padding: 10px 20px 10px 20px;
+}
+.controler-five input{
+    width: 300px;
+    margin-left: 3px;
+    padding: 10px 20px 10px 20px;
+}.controler-six input{
+    width: 300px;
+    padding: 10px 20px 10px 20px;
+}
+.controler-eight select{
+    width: 345px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 23px;
+    background-color: whitesmoke;
+}
+.controler button{
+    border-radius: 50px;
+    padding: 10px 20px 10px 20px;
+    background-color: azure;
+    border-color: purple;
+    color: purple;
+    margin: 20px 0px 0px 100px;
+}
+.controler button:hover{
+    background-color: purple;
+    color: white;
+}
+.controler label{
+    color:purple;
+    margin-right: 10px;
+}
+.controler-seven input{
+    accent-color:purple;
+}
+.controler-nine input{
+    accent-color:purple;
+}

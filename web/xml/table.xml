@@ -1,0 +1,13 @@
+<root>
+<h:table xmlns:h="./">
+  <h:tr>
+    <h:td>value 1</h:td>
+    <h:td>value 2</h:td>
+  </h:tr>
+</h:table>
+<p:table xmlns:p="l/">
+  <p:height></p:height>
+  <p:width></p:width>
+  <p:length></p:length>
+</p:table>
+</root>

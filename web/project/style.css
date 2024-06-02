@@ -1,0 +1,40 @@
+
+.header{
+    width: 100%px;
+    background-color: blue;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bod{
+
+    background-image: url("./download\ \(1\).jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.zero{
+    display: flex;
+    width: 100%;
+    background-color: aliceblue;
+}
+.zero div{
+    height: 300px; 
+}
+.zero > .one{
+    width: 40%;
+    background-color: whitesmoke;
+}
+.zero > .two{
+    width: 30%;
+    background-color: whitesmoke;
+}
+.zero > .three{
+    width: 30%;
+    background-color: whitesmoke;
+}
+.btn{
+    background-color: red;
+    border: 0px ;
+}

@@ -1,0 +1,29 @@
+.a{display: flex;}
+/*.a :is(.a2,.a3){
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}*/
+.a :is(div):not(.a3){
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+.parent{ 
+    display: flex;
+    gap: 10px;
+}
+.parent div{
+    border-right: 1px solid ;
+    padding-inline: 8px;
+    background-color: blue;}
+.parent div:last-child{
+    border: none;
+    background-color: red;
+    }
+    .parent div:first-child{
+    color: white;
+    }
+.parent div:nth-child(2){
+    background-color: green;
+}

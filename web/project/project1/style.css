@@ -1,0 +1,221 @@
+.header{
+height: 80px;
+width: 100%;
+background-color: navy;
+}
+.showcase{
+    background: url('./Image_created_with_a_mobile_phone.png');
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: bold;
+    font-family: cursive;
+    padding: 35px 35px 35px 35px;
+}
+.half{
+    width: ;
+}
+.half .btn{
+    
+    background-color: rgb(24, 11, 11);
+    text-transform: lowercase;
+    font-family:cursive;
+    color:red;
+    margin-top: 100px;
+    border: none;
+
+
+}
+.half .p{
+    font-size: 20px;
+}
+.half .h{
+    font-size: 50px;
+    text-transform: uppercase;
+    width:45% ;
+    color: white;
+    
+}
+.half .p1{
+font-size: 45px ;
+text-transform: capitalize;
+color: white;
+}
+.half .p2{
+    font-size: 25px;
+    color: white;
+}
+.back{
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+}
+.main{
+    width: 100%;
+    display: flex;
+    height: 50%;
+}
+.main > .one{
+    width: 25%;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .two{
+    width: 25%;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .three{
+    width: 25%;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .four{
+    width: 25%;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.one h1{
+    font-size: 50px;
+}
+.two h1{
+    font-size: 50px;
+}
+.three h1{
+    font-size: 50px;
+}
+.four h1{
+    font-size: 50px;
+}
+.one h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.two h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.three h3{
+    color:deeppink;
+    font-size: 20px;
+}
+.four h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.dh h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: inherit;
+    font-size: 30px;
+}
+.one button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+   
+}
+.two button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.three button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.four button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.dk h2{
+   padding-top: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: inherit;
+}
+.dk p{
+    font-size: 50px;
+    text-align: center;
+    color: pi;
+}
+.imp{
+    width: 100%;
+    display: flex;
+    height: 40%;
+}
+.imp > .first{
+    width: 32%;
+    padding-left: 50px;
+    background-color: white;
+    border: 44px;
+    border-color: rgb(190, 16, 16);
+}
+.first h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.second h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.third h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.imp > .second{
+    width: 33.33%;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    bottom: 44px;
+    border-color: brown;
+}
+.imp > .third{
+    width: 32%;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 44px;
+    border-color: black;
+}
+.first button{
+    border: solid;
+    background-color: white;
+}
+.second button{
+    border: solid;
+    background-color: white;
+}
+.third button{
+    background-color: white;
+    border: solid;
+}
+.btn {
+    text-transform: capitalize;
+    height: 10%;
+    border-style: solid;
+    background-color: deeppink;
+    color: white;
+    font-family: inherit;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

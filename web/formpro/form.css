@@ -1,0 +1,119 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+}
+.main .one{
+margin-left: 130px;
+}
+.one h1{
+    width: 790px;
+    font-size: 50px;
+    color:blueviolet;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 40px;
+}
+.one p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    width: 700px;
+    color: rgb(106, 94, 94);
+}
+.one button{
+    padding: 15px;
+    border-radius: 60px;
+    display: flex;
+    font-size: 15px;
+    border-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one button .yolo{
+color: blueviolet;
+margin-right: 5px;
+}
+.one button .yolo:hover{
+    color: white;
+}
+.one button .polo{
+    font-weight: bold;
+}
+.one button .polo:hover{
+    color: black;
+    font-weight:bold;
+}
+.one button:hover{
+background-color: blueviolet;
+color: white;
+}
+.two{
+    margin-right: 600px;
+}
+.header{
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;  
+    border-color: white;
+}
+.form-control input{
+    padding:10px 300px 10px 10px;
+    font-size: 15px;
+}
+.form-control input:hover{
+    border-color: red;
+}
+.love input{
+    padding:10px 200px 10px 10px;
+    font-size: 15px;
+}
+.both{
+display: flex;
+column-gap: 20px;
+}
+.love{
+    display: flex;
+    column-gap: 10px;
+}
+.bone button{
+    border-radius: 65px;
+    border: none;
+    padding: 15px 20px 15px 20px;
+    background-color:cornflowerblue;
+}
+.bone button:hover{
+    background-color: grey;
+}
+.btwo button{
+    border-radius: 65px;
+    border-color: red;
+    padding: 15px 20px 15px 25px;
+    background-color:white;
+}
+.btwo button:hover{
+    background-color: red;
+}
+.love .love-one select{
+    padding: 10px 40px 10px 5px;
+    font-size: 15px;
+    background-color: white;
+    color:rgb(114, 109, 109);
+}
+.love .love-two input{
+    padding: 10px 138px 10px 5px;
+    font-size: 15px;
+}
+.one-control select{
+    padding: 10px 382px 10px 5px;
+    font-size: 15px;
+    background-color: white;
+    color:rgb(114, 109, 109);
+    margin-bottom: 15px;
+}
+.form-control textarea{
+    font-size: 15px;
+}

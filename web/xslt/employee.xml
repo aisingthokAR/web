@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<employee>
+  <info>
+    <name>ramm</name>
+    <post>staff</post>
+    <salary>300000</salary>
+    <address>coony</address>
+  </info>
+  <info>
+    <name>shyam</name>
+    <post>assistant</post>
+    <salary>3000</salary>
+    <address>coony</address>
+  </info>
+<info>
+    <name>hari</name>
+    <post>manager</post>
+    <salary>3000</salary>
+ 
+</info>
+  <info>
+    <name>geeta</name>
+    <post>Ei</post>
+    <salary>3000</salary>
+    <address>coony</address>
+  </info>
+</employee>

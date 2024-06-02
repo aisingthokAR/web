@@ -1,0 +1,215 @@
+.back{
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+}
+.main{
+    display: flex;
+}
+.main > .one{
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .two{
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .three{
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main > .four{
+    width: 25%;
+    background-color: whitesmoke;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.one h1{
+    font-size: 50px;
+}
+.two h1{
+    font-size: 50px;
+}
+.three h1{
+    font-size: 50px;
+}
+.four h1{
+    font-size: 50px;
+}
+.one h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.two h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.three h3{
+    color:deeppink;
+    font-size: 20px;
+}
+.four h3{
+    color: deeppink;
+    font-size: 20px;
+}
+.dh h2{
+    padding-top: 50px;
+    padding-bottom: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: inherit;
+    font-size: 30px;
+}
+.one button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+   
+}
+.two button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.three button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.four button{
+    border-style: hidden;
+    background-color: whitesmoke;
+    font-family: inherit;
+    padding-top: 10px;
+}
+.dk h2{
+   padding-top: 50px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: inherit;
+}
+.dk p{
+    font-size: 50px;
+    text-align: center;
+    color: deeppink;
+}
+.imp{
+    width: 100%;
+    display: flex;
+}
+.imp > .first{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: white;
+    border: solid;
+    border-color: darkgray;
+}
+.first h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.second h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.third h3{
+    color: deeppink;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.imp > .second{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top:30px;
+    padding-bottom: 30px;
+    border: solid;
+    border-color: darkgray;
+}
+.imp > .third{
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: solid;
+    border-color:darkgray;
+}
+.but{
+    border: solid;
+    background-color: white;\
+}
+.imp{
+    margin-bottom:30px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.btn button {
+    text-transform: capitalize;
+    border-style: solid;
+    background-color: deeppink;
+    color: white;
+    font-family: inherit;
+    font-size: large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left:750px;
+    }
+    .all > .next{
+    margin-left: 100px;
+    margin-bottom: 70px;
+    }
+
+.secsion{
+        display: flex;
+        width: 100%;
+        background-image: url("./How-employees-contribute-to-an-organizations-success.png");
+background-repeat: no-repeat;
+ }
+.secsion > .pht{
+padding-left: 40px;
+margin-bottom:30px;
+
+    }
+.secsion > .pay{
+    margin-right: 60px;
+    background-color: deeppink;
+    height:400px;
+}
+.pay h1{
+    color: white;
+    margin-left: 30px;
+}
+.pay h3{
+    color: white;
+    margin-left: 30px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pay p{
+    margin-left: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pay button{
+    border: solid;
+    border-color: azure;
+    margin-left:30px ;
+    margin-top: 30px;
+    background-color: deeppink;
+    color: white;
+}
